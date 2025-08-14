@@ -28,7 +28,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Romac's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Romak&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Romak&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=David-Romak&theme=radical)
 
