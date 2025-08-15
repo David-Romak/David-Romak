@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on a **Smart Check-In/Check-Out System** for students & employees  
+- 🔭 Currently working on a **Daily Reports Application** for companies to improve their efficiency  
 - 🌱 Learning **Design Patterns & Data Structures and algorithms**  
 - ♟️ Chess player, 🎹 aspiring pianist (resuming lessons soon😆)  
 - 🎮 Gaming enthusiast, 🚗 future road trip driver  
