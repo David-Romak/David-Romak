@@ -29,7 +29,6 @@
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Romak&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=David-Romak&theme=radical)
 
 ---
 
@@ -39,4 +38,4 @@
 
 
 ---
-> “Clear the basics of life, and you get time for anything else.” – James Clear
+> Mindfulness is ma speciality 🤞
