@@ -1,19 +1,21 @@
 # 👋 Hi, I'm Romac
 
 💻 **Full Stack Developer** | 🎯 Building smart, impactful solutions  
-🌍 Based in Uganda | 🚀 Always learning, always building  
+🌍 Based in Uganda | 🚀 Always learning, always building
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on a **Daily Reports Application** for companies to improve their efficiency  
-- 🌱 Learning **Design Patterns with Data Structures and algorithms**  
-- ♟️ Chess player, 🎹 aspiring pianist (resuming lessons soon😆)  
-- 🎮 Gaming enthusiast, 🚗 future road trip driver  
+
+- 🔭 Currently working on a **Daily Reports Application** for companies to improve their efficiency
+- 🌱 Learning **Design Patterns with Data Structures and algorithms**
+- ♟️ Chess player, 🎹 aspiring pianist (resuming lessons soon😆)
+- 🎮 Gaming enthusiast, 🚗 future road trip driver
 
 ---
 
 ## 🛠 Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
@@ -28,14 +30,17 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Romak&layout=compact&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Romak&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=flat&logo=linkedin)]([https://linkedin.com/in/](https://www.linkedin.com/in/kizito-david-26a9472a2/))
-[![Twitter](https://img.shields.io/badge/Twitter-333?style=flat&logo=twitter)](https://twitter.com/DavidRomak)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/kizito-david-26a9472a2/)  
+[![Twitter](https://img.shields.io/badge/Twitter-333?style=flat&logo=twitter)](https://twitter.com/DavidRomak)  
+[![Instagram](https://img.shields.io/badge/Instagram-333?style=flat&logo=instagram)](https://www.instagram.com/davidromac33/)
 
 ---
+
 > Mindfulness is ma speciality 🤞
