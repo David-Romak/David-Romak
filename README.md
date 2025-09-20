@@ -37,9 +37,9 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/kizito-david-26a9472a2/)  
-[![Twitter](https://img.shields.io/badge/Twitter-333?style=flat&logo=twitter)](https://twitter.com/DavidRomak)  
-[![Instagram](https://img.shields.io/badge/Instagram-333?style=flat&logo=instagram)](https://www.instagram.com/davidromac33/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kizito-david-26a9472a2/)  
+[![Twitter](https://img.shields.io/badge/Twitter-333?style=flat&logo=X&logoColor=white)](https://twitter.com/DavidRomak)  
+[![Instagram](https://img.shields.io/badge/Instagram-333?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/davidromac33/)  
 
 ---
 
